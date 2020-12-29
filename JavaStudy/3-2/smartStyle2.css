@@ -1,0 +1,45 @@
+@media screen and(max-width: 767px){
+
+.header{
+	width: 300px;
+}
+
+.side{
+	width: 100px;
+}
+
+.content-top-left{
+	width: 125px;
+}
+
+.content-top-right{
+	width: 75px;
+}
+}
+
+@media screen and(max-width: 479px){
+
+.header{
+	width: 150px;
+}
+
+.side{
+	float: none;
+	width: 150px;
+}
+
+.content-top-left{
+	float: none;
+	width: 150px;
+}
+
+.content-top-right{
+	float: none;
+	width: 150px;
+}
+
+.content-bottom{
+	float: none;
+	width: 150px;
+}
+}	
