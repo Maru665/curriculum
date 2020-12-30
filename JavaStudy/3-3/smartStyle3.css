@@ -1,0 +1,46 @@
+@media screen and(max-width: 479px){
+
+.header{
+	width: 200px;
+}
+
+.header-right{
+	float: none;
+	margin-right: 70px;
+}
+
+.header-right-left{
+	float: none;
+}
+
+.header-right-middle{
+	float: none;
+}
+
+.header-right-right{
+	float: none;
+}
+
+.left{
+	float: none;
+}
+
+.right{
+	float: none;
+}
+
+.right-top{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.right-middle{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.right-bottom{
+	margin-top: 20px;
+	margin-left: 30px;
+}
+}	
